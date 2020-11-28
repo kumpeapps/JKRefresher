@@ -1,6 +1,7 @@
 Note: This project is forked from AMRefresher as the original project is no longer maintained.
 
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/86464ebda1414f9682516f3af6633a0c)](https://app.codacy.com/gh/kumpeapps/JKRefresher?utm_source=github.com&utm_medium=referral&utm_content=kumpeapps/JKRefresher&utm_campaign=Badge_Grade_Settings)
 [![Version](https://img.shields.io/cocoapods/v/JKRefresher.svg?style=flat)](https://cocoapods.org/pods/JKRefresher)
 [![License](https://img.shields.io/cocoapods/l/JKRefresher.svg?style=flat)](https://cocoapods.org/pods/JKRefresher)
 [![Platform](https://img.shields.io/cocoapods/p/JKRefresher.svg?style=flat)](https://cocoapods.org/pods/JKRefresher)
