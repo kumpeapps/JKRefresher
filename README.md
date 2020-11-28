@@ -72,5 +72,5 @@ So you can call this method and pass any UIView you want to show for each state.
 
 ## License
 
-AMRefresher-Fork is available under the MIT license. See the LICENSE file for more info.
+JKRefresher-Fork is available under the MIT license. See the LICENSE file for more info.
 
