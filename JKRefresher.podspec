@@ -22,7 +22,7 @@ Super easy way to use "Pull To Refresh" and "Infinite Scrolling" with 1 line of 
   s.author = { "Justin Kumpe" => "helpdesk@kumpeapps.com" }
   s.source = { :git => 'https://github.com/kumpeapps/JKRefresher.git', :tag => "#{s.version}" }
   
-  s.ios.deployment_target = '14.0'
+  s.ios.deployment_target = '15.0'
   s.source_files = 'JKRefresher/**/*.{swift,storyboard,xib,png}'
   s.swift_version = '5'
   s.frameworks = 'UIKit'
