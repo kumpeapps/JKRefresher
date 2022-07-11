@@ -29,7 +29,7 @@ fileprivate struct AssociatedKeys {
     static var am = "_am"
 }
 
-public protocol AMExtensionsProvider: class {
+public protocol AMExtensionsProvider: AnyObject {
     associatedtype T
     var am: T { get set }
 }
